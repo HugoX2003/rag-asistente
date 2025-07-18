@@ -34,8 +34,8 @@ Asistente conversacional local para consultar tus propios documentos, combinando
 1. **Clona este repositorio**  
 
    ```bash
-   git clone https://github.com/yaloactualizoenunrato.git
-   cd yaloactualizoenunrato
+   git clone https://github.com/HugoX2003/rag-asistente
+   cd rag-asistente
    ```
 
 2. **Crea y activa un entorno virtual**
